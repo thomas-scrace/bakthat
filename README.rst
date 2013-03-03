@@ -197,7 +197,7 @@ Rotate backup using Grandfather-father-son backup rotation scheme, you can save 
 
 ::
 
-    $ bakthat bakthat configure_backups_rotation
+    $ bakthat configure_backups_rotation
 
 Now you can rotate a backup set:
 
